@@ -5,3 +5,4 @@ for letter in text:
         print(letter, end="")
 
 print()
+code plates/plates.py
